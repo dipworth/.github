@@ -1,7 +1,7 @@
 <img src="https://github.com/doxe1/doxe1/blob/main/cover.gif" width="100%" height="150">
 
 _____
-**[DIPWORTH](https://t.me/dipworth)** is a Ukrainian team that is rapidly growing and gaining momentum. Our **organization** is dedicated to providing reliable and secure solutions for PoS blockchains, with a focus on node safety and protection, monitoring systems, RPC services, analytics, and snapshots. Our team supports projects at any stage, from early testnet/devnet phases to mainnet deployment. **Trust is a cornerstone of our operation, and we are committed to maintaining the highest standards of reliability and transparency.**
+**[DIPWORTH](https://t.me/dipworth)** is a Ukrainian team that is rapidly growing and gaining momentum. Our **organization** is dedicated to providing reliable and secure [solutions for PoS blockchains](https://github.com/dipworth/dipworth-portfolio), with a focus on node safety and protection, monitoring systems, RPC services, analytics, and snapshots. Our team supports projects at any stage, from early testnet/devnet phases to mainnet deployment. **Trust is a cornerstone of our operation, and we are committed to maintaining the highest standards of reliability and transparency.** 
 
 To ensure the highest level of security and protection, we utilize advanced monitoring systems that keep a vigilant watch over our nodes. Our services include RPC, which facilitates seamless interaction with the blockchain, comprehensive analytics for insightful data analysis, and regular snapshots to safeguard data integrity and ensure quick recovery in case of any issues.
 
